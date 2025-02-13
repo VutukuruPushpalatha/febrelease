@@ -2,4 +2,7 @@ public class calculator{
    public void dosum(){
           system.debug("sum");
   }
+   public void dosub(){
+	system.debug("subtract");
+   }
 }
